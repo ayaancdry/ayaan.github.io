@@ -50,7 +50,7 @@
     src: url('JetBrainsMonoNL-ExtraBold.ttf') format('ttf'),
         url('JetBrainsMonoNL-ExtraBold.ttf') format('ttf');
     font-weight: 300;
-    font-style: italic;
+    font-style: Bold;
     font-display: swap;
 }
 
@@ -68,7 +68,7 @@
     src: url('JetBrainsMonoNL-Medium.ttf') format('ttf'),
         url('JetBrainsMonoNL-Medium.ttf') format('ttf');
     font-weight: 500;
-    font-style: normal;
+    font-style: medium;
     font-display: swap;
 }
 
@@ -95,7 +95,7 @@
     src: url('JetBrainsMonoNL-SemiBold.ttf') format('ttf'),
         url('JetBrainsMonoNL-SemiBold.ttf') format('ttf');
     font-weight: 600;
-    font-style: normal;
+    font-style: bold;
     font-display: swap;
 }
 
@@ -104,7 +104,7 @@
     src: url('JetBrainsMonoNL-Thin.ttf') format('ttf'),
         url('JetBrainsMonoNL-Thin.ttf') format('ttf');
     font-weight: 100;
-    font-style: normal;
+    font-style: thin;
     font-display: swap;
 }
 
